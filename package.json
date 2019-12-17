@@ -1,0 +1,26 @@
+{
+  "name": "fetch_api",
+  "version": "1.0.0",
+  "description": "* Challenge time: rest of the day and weekend, until Monday 9am * Feel free to use Google, your notes, books, etc. but work on your own * If you refer to the solution of another coach or student, please put a link to that in your README * If you have a partial solution, **still check in a partial solution** * You must submit a pull request to this repo with your code by 9am Monday morning",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neilcam4/fetch_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neilcam4/fetch_api/issues"
+  },
+  "homepage": "https://github.com/neilcam4/fetch_api#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}

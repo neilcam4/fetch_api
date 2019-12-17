@@ -1,12 +1,10 @@
+console.log("hello from app.js")
 
-
-document.getElementById('button1').addEventListener('click',getText )
-
+document.getElementById("button1").addEventListener('click', getText)
 function getText(){
     fetch('file.txt')
     .then(function(response){
-       response.text()
-       console.log(response.text())
+    response.text()
     })
     .then(function(data){
         console.log(data)
@@ -15,3 +13,4 @@ function getText(){
         console.log("oh no")
     })
 }
+
