@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/neilcam4/fetch_api#readme",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
